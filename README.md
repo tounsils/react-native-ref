@@ -11,12 +11,14 @@ Then run the following commands to create a new React Native project called "Awe
 
 expo init AwesomeProject
 
-cd AwesomeProject
-npm start # you can also use: expo start
 
+
+
+# Previewing Your App on iOS or Android
+Great—now your application is ready for testing. To launch your application, run:
+cd first-project
+npm start
 This will start a development server for you.
-
-
 
 
 https://reactnative.dev/docs/0.60/getting-started
