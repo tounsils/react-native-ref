@@ -14,7 +14,7 @@ expo init AwesomeProject
 
 
 
-# Previewing Your App on iOS or Android
+## Previewing Your App on iOS or Android
 Great—now your application is ready for testing. To launch your application, run:
 cd first-project
 npm start
